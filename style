@@ -38,7 +38,7 @@ top:3px;
 width:16px;
 }
 
-.signin {
+.sign-in {
 background-color:#4285f4;
 border:1px solid #4285f4;
 display:inline;
@@ -77,8 +77,8 @@ width:620px;
 border:1px solid #4285f4;
 }
 
-.search-buttons {
-font-size:.7em;
+.buttons {
+font-size:1em;
 font-weight:700;
 margin:0 auto;
 padding-top:15px;
